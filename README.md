@@ -1,5 +1,6 @@
 # Competing Species
 
 ```math
-e^{x} = \sum_{n = 0}^{\infty} \frac{x^{n}}{n!}
+x' = x\,(2 - x - y) \\
+y' = y\,(3 - 2\,x - y)
 ```
