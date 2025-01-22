@@ -25,10 +25,10 @@ Os pontos de equilíbrio são determinados pelas interseções das x-nullclines 
 
 ## Linearização
 
-A matriz jacobiana para o sistema é $\begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}$
+A matriz jacobiana para o sistema é a matriz $A$ dada por:
 
 ```math
-    \begin{pmatrix}
-        0 & 0 & \\ 0 & 0 & 0 \\ 0 & 0 & 0
+    A = \begin{pmatrix}
+        3 - 4\,x - 2\,y & - 2\,x \\ - y & 2 - x - 2\,y
     \end{pmatrix}
 ```
