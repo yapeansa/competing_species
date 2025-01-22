@@ -11,4 +11,4 @@ Modelo...
 
 ### Determinando as x-nullclines
 
-As x-nullclines são os pontos do plano em que $ x\,(3 - 2\,x - 2\,y) $
+As x-nullclines são os pontos do plano em que $x\,(3 - 2\,x - 2\,y)$
