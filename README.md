@@ -11,4 +11,4 @@ Modelo...
 
 ### Determinando as x-nullclines
 
-As x-nullclines são os pontos do plano em que $x\\,(3 - 2\\,x - 2\\,y) = 0$.
+As x-nullclines são os pontos do plano em que $x\\,(3 - 2\\,x - 2\\,y) = 0$, isto é, as x-nullclines são: $x = 0$ e $2\\,y = 3 - 2\\,x$.
