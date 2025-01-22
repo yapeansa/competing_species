@@ -1,8 +1,6 @@
-# Competing Species
+# Competitive Species
 
-```math
-x' = x\,(2 - x - y)
-```
-```math
-y' = y\,(3 - 2\,x - y)
-```
+Modelo...
+
+$$ x' = x\,(3 - 2\,x - 2\,y) $$
+$$ y' = y\,(2 - x - y) $$
