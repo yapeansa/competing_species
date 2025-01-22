@@ -7,6 +7,7 @@ $$ y' = y\,(2 - x - y) $$
 
 ```math
 \begin{align}
-    y = ax + b
+    y = ax + b \\
+    z = we + r
 \end{align}
 ```
