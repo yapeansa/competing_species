@@ -32,3 +32,8 @@ A matriz jacobiana para o sistema é a matriz $A$ dada por:
         3 - 4\,x - 2\,y & - 2\,x \\ - y & 2 - x - 2\,y
     \end{pmatrix}
 ```
+Desta forma, o sistema linearizado na origem $(0,0)$ é dado por:
+```math
+\begin{pmatrix} u' \\ v' \end{pmatrix} = 
+\begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}\,\begin{pmatrix} u \\ v \end{pmatrix}
+```
