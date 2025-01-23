@@ -35,5 +35,6 @@ A matriz jacobiana para o sistema é a matriz $A$ dada por:
 Desta forma, o sistema linearizado na origem $(0,0)$ é dado por:
 ```math
 \begin{pmatrix} u' \\ v' \end{pmatrix} = 
-\begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}\,\begin{pmatrix} u \\ v \end{pmatrix}
+\begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}\,\begin{pmatrix} u \\ v \end{pmatrix} = B\,\begin{pmatrix} u \\ v \end{pmatrix}
 ```
+Podemos observado que a matriz $B$ possui os autovalores $\lambda_1 = 3$ e $\lambda_2 = 2$. Portanto, o ponto de equilíbrio $(0, 0)$ é do tipo fonte. Assim, as soluções se afastam deste ponto ao longo do tempo.
