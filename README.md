@@ -37,4 +37,4 @@ Desta forma, o sistema linearizado na origem $(0,0)$ é dado por:
 \begin{pmatrix} u' \\ v' \end{pmatrix} = 
 \begin{pmatrix} 3 & 0 \\ 0 & 2 \end{pmatrix}\,\begin{pmatrix} u \\ v \end{pmatrix} = B\,\begin{pmatrix} u \\ v \end{pmatrix}
 ```
-Podemos observado que a matriz $B$ possui os autovalores $\lambda_1 = 3$ e $\lambda_2 = 2$. Portanto, o ponto de equilíbrio $(0, 0)$ é do tipo fonte. Assim, as soluções se afastam deste ponto ao longo do tempo.
+Podemos observado que a matriz $B$ possui os autovalores $\lambda_1 = 3$ e $\lambda_2 = 2$. Como ambos os autovalores são positivos, o sistema não é hiperbólico e a solução do sistema linearizado próximo da origem descreve qualitativamente o sistema original. Portanto, o ponto de equilíbrio $(0, 0)$ é do tipo fonte. Assim, as soluções se afastam deste ponto ao longo do tempo.
