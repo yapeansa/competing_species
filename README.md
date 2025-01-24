@@ -1,4 +1,4 @@
-# Competitive Species
+<h1>Competitive Species</h1>
 
 Modelo...
 
@@ -9,29 +9,32 @@ Modelo...
 \end{align}
 ```
 
-## Análise Qualitativa
+<h2>Análise Qualitativa</h2>
 
-### Determinando as x-nullclines
-
+<h3>Determinando as x-nullclines</h3>
+<p>
 As x-nullclines são os pontos do plano em que $x\\,(3 - 2\\,x - 2\\,y) = 0$, isto é, as x-nullclines são: $x = 0$ e $2\\,y = 3 - 2\\,x$.
+</p>
 
-### Determinando as y-nullclines
-
+<h3>Determinando as y-nullclines</h3>
+<p>
 As y-nullclines são os pontos do plano em que $y\\,(2 - x - y) = 0$. Assim, as y-nullclines são dadas por: $y = 0$ e $y = 2 - x$.
+</p>
 
-### Pontos de equilíbrio
-
+<h3>Pontos de equilíbrio</h3>
+<p>
 Os pontos de equilíbrio são determinados pelas interseções das x-nullclines com as y-nullclines. Observamos que as retas $2\\,y = 3 - 2\\,x$ e $y = 2 - x$ são paralelas e portanto não se intersectam. Assim, temos os seguintes pontos de equilíbrio: $(0, 0), (0, 2), \left(\frac{3}{2}, 0\right)$.
+</p>
 
-### Retrato de fase
-
+<h3>Retrato de fase</h3>
+<p>
 De posse das nullclines e dos pontos de equilíbrio, somos capazes de esboçar o retrato de fase do sistema. Abaixo apresentamos esse esboço com juntamente com os pontos de equilíbrio e as nullclines:
+</p>
 <div align="center">
     <img src="./src/retrato_de_fase.png" alt="Retrato de Fase"/>
 </div>
 
 <h3>Linearização</h3>
-
 A matriz jacobiana para o sistema é a matriz $A$ dada por:
 
 ```math
