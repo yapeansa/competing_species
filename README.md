@@ -1,6 +1,6 @@
 <h1>Competitive Species</h1>
 
-Modelo...
+Duas espécies competindo por um mesmo suprimento de alimento. Uma é mais forte que a outra.
 
 ```math
 \begin{align}
