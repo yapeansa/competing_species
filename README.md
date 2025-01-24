@@ -26,7 +26,9 @@ Os pontos de equilíbrio são determinados pelas interseções das x-nullclines 
 ### Retrato de fase
 
 De posse das nullclines e dos pontos de equilíbrio, somos capazes de esboçar o retrato de fase do sistema. Abaixo apresentamos esse esboço com juntamente com os pontos de equilíbrio e as nullclines:
+<div align="center">
 ![](./src/retrato_de_fase.png)
+</div>
 
 ### Linearização
 
