@@ -27,10 +27,10 @@ Os pontos de equilíbrio são determinados pelas interseções das x-nullclines 
 
 De posse das nullclines e dos pontos de equilíbrio, somos capazes de esboçar o retrato de fase do sistema. Abaixo apresentamos esse esboço com juntamente com os pontos de equilíbrio e as nullclines:
 <div align="center">
-![](./src/retrato_de_fase.png)
+    <img src="./src/retrato_de_fase.png" alt="Retrato de Fase"/>
 </div>
 
-### Linearização
+<h3>Linearização</h3>
 
 A matriz jacobiana para o sistema é a matriz $A$ dada por:
 
